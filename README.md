@@ -14,7 +14,7 @@
 </p><br>
 
 
-# Datumnator
+# Datumnator [DOWNLOAD THE INSTALLER HERE](https://github.com/hansalemaos/Datumnator/raw/main/datumnator_setup.exe)
 
 
 
@@ -46,7 +46,7 @@ Write your answer in DD.MM.YYYY format! If it is right, you will get a<br>point.
 
 | _,.-'``'-.,_,.'`` Step 4 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
-Here is an example of how it looks like if you do not choose to read<br>the text.|<img src="200_800x800.png" width="400"/> |
+Here is an example of how the output looks like if you do not choose to read the text.|<img src="200_800x800.png" width="400"/> |
 
 
 ## License
